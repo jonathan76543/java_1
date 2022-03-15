@@ -5,7 +5,7 @@ public class Pruebas{
 
         Empleados trabajador1=new Empleados("jonathan rico herrera");
 
-        Empleados trabajador2=new Empleados("Ana torres");
+        Empleados trabajador2=new Empleados("Ana torres ramires");
 
         trabajador1.cambiaSeccion("RRHH");
 
