@@ -7,7 +7,7 @@ public class Pruebas{
 
         Empleados trabajador2=new Empleados("Ana torres ramires");
 
-        trabajador1.cambiaSeccion("RRHH");
+        trabajador1.cambiaSeccion("gerente");
 
         System.out.println(trabajador1.devuelveDatos());
         System.out.println(trabajador2.devuelveDatos());
